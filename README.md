@@ -1,2 +1,0 @@
-# Jqh
-JavaScript Project demo
